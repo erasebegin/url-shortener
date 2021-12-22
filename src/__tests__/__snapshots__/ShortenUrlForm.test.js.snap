@@ -1,0 +1,202 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <form
+        class="sc-eCImPb bgqRrI"
+      >
+        <input
+          aria-label="Enter URL"
+          class="sc-jRQBWg hHxxVf"
+          name="url-input"
+          placeholder="Enter URL"
+          type="text"
+          value=""
+        />
+        <div>
+          <input
+            aria-label="Custom name"
+            class="sc-jRQBWg hHxxVf"
+            name="alias-input"
+            placeholder="Custom name"
+            type="text"
+            value=""
+          />
+          <button
+            class="sc-gKclnd sc-iCfMLu hBNXNw letsxP"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 1024 1024"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm32 664c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8V456c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v272zm-32-344a48.01 48.01 0 0 1 0-96 48.01 48.01 0 0 1 0 96z"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="sc-furwcr gEKgye"
+        >
+          <p>
+            Choose a custom URL, e.g. entering 
+            <b>
+              my-custom-url
+            </b>
+             will create
+             
+            <code>
+              <b>
+                /my-custom-url
+              </b>
+            </code>
+            . Or you can leave this blank to get a random short url
+          </p>
+        </div>
+        <button
+          class="sc-gKclnd hBNXNw"
+        >
+          Submit
+        </button>
+        <div
+          class="sc-pVTFL ctYFXx"
+        >
+          <p
+            class="error-text"
+          />
+        </div>
+      </form>
+    </div>
+  </body>,
+  "container": <div>
+    <form
+      class="sc-eCImPb bgqRrI"
+    >
+      <input
+        aria-label="Enter URL"
+        class="sc-jRQBWg hHxxVf"
+        name="url-input"
+        placeholder="Enter URL"
+        type="text"
+        value=""
+      />
+      <div>
+        <input
+          aria-label="Custom name"
+          class="sc-jRQBWg hHxxVf"
+          name="alias-input"
+          placeholder="Custom name"
+          type="text"
+          value=""
+        />
+        <button
+          class="sc-gKclnd sc-iCfMLu hBNXNw letsxP"
+        >
+          <svg
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 1024 1024"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm32 664c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8V456c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v272zm-32-344a48.01 48.01 0 0 1 0-96 48.01 48.01 0 0 1 0 96z"
+            />
+          </svg>
+        </button>
+      </div>
+      <div
+        class="sc-furwcr gEKgye"
+      >
+        <p>
+          Choose a custom URL, e.g. entering 
+          <b>
+            my-custom-url
+          </b>
+           will create
+           
+          <code>
+            <b>
+              /my-custom-url
+            </b>
+          </code>
+          . Or you can leave this blank to get a random short url
+        </p>
+      </div>
+      <button
+        class="sc-gKclnd hBNXNw"
+      >
+        Submit
+      </button>
+      <div
+        class="sc-pVTFL ctYFXx"
+      >
+        <p
+          class="error-text"
+        />
+      </div>
+    </form>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
