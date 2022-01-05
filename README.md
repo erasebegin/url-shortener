@@ -10,7 +10,8 @@ To improve my understanding of the Firebase API
 
 ## Known Issues
 
-Does not currently correctly detect duplicate URL aliases so a duplicate will always return the last URL that was assigned to that alias
+- Does not currently correctly detect duplicate URL aliases so a duplicate will always return the last URL that was assigned to that alias
+- Says "copied" after link is created, but no copy operation has taken place
 
 ## Installation and Setup
 
